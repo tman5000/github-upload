@@ -1,4 +1,5 @@
 #!/bin/sh -l
 
 cd /app;
-ng test;
+#ng test;
+echo "Hello world";
