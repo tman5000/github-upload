@@ -4,4 +4,4 @@ author: "tman"
 
 runs:
   using: "docker"
-  image: "Dockerfile"
+  image: "../Dockerfile"
