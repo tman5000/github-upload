@@ -1,0 +1,7 @@
+name: "Test"
+description: "Test angular project"
+author: "tman"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
